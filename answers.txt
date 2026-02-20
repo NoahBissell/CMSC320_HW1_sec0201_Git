@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Tracking changes locally allows more control. You can revert to previous versions, merge different features, etc.
