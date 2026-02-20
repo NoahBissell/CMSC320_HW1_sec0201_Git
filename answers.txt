@@ -9,3 +9,7 @@ Answer: Atmospheric Science
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the history of both branches separately, while rebasing moves the entire current branch onto the other branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: CMSC320!
