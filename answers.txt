@@ -5,3 +5,7 @@ Answer: Tracking changes locally allows more control. You can revert to previous
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Atmospheric Science
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the history of both branches separately, while rebasing moves the entire current branch onto the other branch.
